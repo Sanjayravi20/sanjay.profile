@@ -14,7 +14,7 @@ body {
 .navbar {
   display: flex;
   justify-content: space-between;
-  padding: 100px 50px;
+  padding: 10px 50px;
   background: #020617;
   position: fixed;
   width: 100%;
@@ -85,6 +85,7 @@ body {
 
   transform: rotate(360deg);
 }
+
 
 
 
